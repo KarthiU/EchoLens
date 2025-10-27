@@ -1,0 +1,10 @@
+opencv-python>=4.10
+numpy>=1.24
+Pillow>=10.0
+pyttsx3==2.90
+python-Levenshtein>=0.21
+paddleocr>=2.7
+# Install one of these separately depending on your setup:
+# paddlepaddle  (CPU)
+# or
+# paddlepaddle-gpu  (GPU/CUDA)
